@@ -2,81 +2,48 @@
   "Products": [
       {
           "id": 1,
-          "title": "Quần Guuci",
+          "title": "Bánh kếp dâu tây",
           "price": 300,
-          "description": "Quần đẹp nhất thế giới",
-          "category": "Quần",
-          "image": "https://tse3.mm.bing.net/th?id=OIP.eoFTLJV5-0COV7Xa1hVA_QHaHa&pid=Api&P=0&h=180"
+          "description": "Bánh kếp dâu tay thái",
+          "category": "Bánh",
+          "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
           "id": 2,
-          "title": "Áo LV",
+          "title": "Hamburger",
           "price": 400,
-          "description": "Áo đẹp nhất thế giới",
-          "category": "Áo",
-          "image": "https://tse1.mm.bing.net/th?id=OIP.Z0xMYGVi8sBlD9t9YcXwFwHaGS&pid=Api&P=0&h=180"
+          "description": "Bữa ăn nhanh truyền thống nước Mỹ",
+          "category": "Bánh",
+          "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
           "id": 3,
-          "title": "Váy LV",
+          "title": "Mỳ hải sản",
           "price": 500,
-          "description": "Váy đẹp nhất thế giới",
-          "category": "Váy",
-          "image": "https://tse1.mm.bing.net/th?id=OIP.v8ULRWA4mArtVB23i8b3YgHaHa&pid=Api&P=0&h=180"
-      },
-      {
-          "id": 4,
-          "title": "Giày Guuci",
-          "price": 300,
-          "description": "Giày đẹp nhất thế giới",
-          "category": "Giày",
-          "image": "https://tse2.mm.bing.net/th?id=OIP.Xf6PsIz5zA_l3GCwLRT6tQHaFj&pid=Api&P=0&h=180"
-      }
+          "description": "Mỳ hải sản nấu chín full topping",
+          "category": "Mỳ",
+          "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=600"
+      } 
   ],
   "Users": [
       {
           "id": 1,
-          "fullname": "khoiaaaa",
-          "email": "khoispeu@gmail.com",
+          "fullname": "taind123",
+          "email": "taind123@gmail.com",
           "password": "12345678",
           "role": "admin"
-      },
-      {
-          "id": 2,
-          "fullname": "thai123",
-          "email": "thai8a2003@gmail.com",
-          "password": "12345678",
-          "role": "member"
-      },
-      {
-        "id": 3,
-        "fullname": "doquangha2805",
-        "email": "quangha280503@gmail.com",
-        "password": "280503",
-        "role": "member"
       }
-    
   ],
   "Categories": [
     {
       "id": "1",
-      "name": "Quần",
-      "description": "Quần mang xu hướng năm 2024"
+      "name": "Bánh",
+      "description": "Bánh kếp dâu tay thái"
     },
     {
       "id": "2",
-      "name": "Áo",
-      "description": "Áo mang xu hướng năm 2024"
-    },
-    {
-      "id": "3",
-      "name": "Giày",
-      "description": "Giày mang xu hướng năm 2024"
-    },
-    {
-      "id": "4",
-      "name": "Váy",
-      "description": "Váy mang xu hướng năm 2024"
+      "name": "Mỳ",
+      "description": "Mỳ hải sản nấu chín full topping"
     }
   ]
 }
